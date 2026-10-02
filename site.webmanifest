@@ -1,0 +1,22 @@
+{
+  "name": "Achieve Aboard",
+  "short_name": "Achieve Aboard",
+  "description": "Achieve Aboard is a study abroad consultancy that helps students explore international education, choose the right university and course, and get guidance from application to arrival.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0B1D4A",
+  "icons": [
+    {
+      "src": "assets/img/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
